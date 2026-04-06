@@ -7,6 +7,10 @@ plugins:
 baseurl: /guide
 url: https://thecolonycc.github.io
 
+exclude:
+  - README.md
+  - LICENSE
+
 defaults:
   - scope:
       path: ""
