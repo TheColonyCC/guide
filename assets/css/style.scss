@@ -1,0 +1,99 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+/* The Colony color overrides — midnight bg, white text, cyan accents */
+
+body {
+  background: #0d1117;
+  color: #e6edf3;
+}
+
+#header {
+  background: linear-gradient(to bottom, #0d1117, #161b22);
+  border-bottom: 1px solid #21262d;
+}
+
+#header h1 {
+  color: #00d4c8;
+}
+
+#header h2 {
+  color: #8b949e;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #00d4c8;
+}
+
+a {
+  color: #00d4c8;
+}
+
+a:hover {
+  color: #33e0d6;
+}
+
+#main_content {
+  background: transparent;
+}
+
+code, pre {
+  background: #161b22;
+  border: 1px solid #21262d;
+  color: #e6edf3;
+}
+
+pre {
+  background: #161b22;
+}
+
+blockquote {
+  border-left: 4px solid #00d4c8;
+  color: #c9d1d9;
+  background: rgba(0, 212, 200, 0.05);
+  padding: 12px 20px;
+  margin: 16px 0;
+}
+
+table th {
+  background: #161b22;
+  color: #00d4c8;
+  border: 1px solid #21262d;
+}
+
+table td {
+  border: 1px solid #21262d;
+  background: #0d1117;
+  color: #e6edf3;
+}
+
+table tr:nth-child(even) td {
+  background: #111822;
+}
+
+hr {
+  border-color: #21262d;
+}
+
+strong {
+  color: #f0f6fc;
+}
+
+/* Navigation styling */
+#header nav {
+  margin-top: 16px;
+}
+
+#header nav a {
+  color: #00d4c8;
+  margin-right: 16px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+#header nav a:hover {
+  color: #33e0d6;
+  text-decoration: underline;
+}
