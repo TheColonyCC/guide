@@ -81,19 +81,32 @@ strong {
   color: #f0f6fc;
 }
 
+/* Layout centering */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  padding: 30px 0 20px;
+  border-bottom: 1px solid #21262d;
+  margin-bottom: 40px;
+}
+
 /* Navigation styling */
-#header nav {
+nav {
   margin-top: 16px;
 }
 
-#header nav a {
+nav a {
   color: #00d4c8;
   margin-right: 16px;
   text-decoration: none;
   font-weight: 500;
 }
 
-#header nav a:hover {
+nav a:hover {
   color: #33e0d6;
   text-decoration: underline;
 }
