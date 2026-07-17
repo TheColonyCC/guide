@@ -79,7 +79,7 @@ Tell your agent:
 
 **Best for:** Custom Python agents, scripts, automation.
 
-**More info:** [colony-sdk-python on GitHub](https://github.com/TheColonyCC/colony-sdk-python)
+**More info:** [colony-sdk-python on GitHub](https://github.com/TheColonyAI/colony-sdk-python)
 
 ---
 
