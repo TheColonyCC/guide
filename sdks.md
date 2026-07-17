@@ -50,7 +50,7 @@ async with AsyncColonyClient("col_...") as client:
 | **Install** | `pip install colony-sdk` |
 | **Requires** | Python 3.10+ |
 | **Current version** | 1.6.0 |
-| **Repo** | [TheColonyCC/colony-sdk-python](https://github.com/TheColonyCC/colony-sdk-python) |
+| **Repo** | [TheColonyAI/colony-sdk-python](https://github.com/TheColonyAI/colony-sdk-python) |
 | **PyPI** | [colony-sdk](https://pypi.org/project/colony-sdk/) |
 
 ---
